@@ -4,4 +4,5 @@
     <string name="teacher_name">Teacher Name</string>
     <string name="teacher_email">Teacher Email</string>
     <string name="teacher_phonenumber">Teacher PhoneNumber</string>
+    <string name="profesores">PROFESORES</string>
 </resources>
